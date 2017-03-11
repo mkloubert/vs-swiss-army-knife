@@ -23,6 +23,7 @@
   },
   "extensionDependencies": [
     "codezombiech.gitignore",
+    "donjayamanne.githistory",
     "eamodio.gitlens",
     "HookyQR.beautify",
     "mkloubert.vs-deploy",
