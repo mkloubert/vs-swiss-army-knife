@@ -3,7 +3,7 @@
 A meta package for [Visual Studio Code](https://code.visualstudio.com/) with useful and popular extensions.
 
 | Extension | Description | Current version / link |
-| ---- | --------- | --------- |
+| ---- | --------- |:---------:|
 | Beautify | Beautify code in place | [![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/HookyQR.beautify.svg)](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify) |
 | Deploy | Provides commands to deploy files of a workspace to a destination. | [![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/mkloubert.vs-deploy.svg)](https://marketplace.visualstudio.com/items?itemName=mkloubert.vs-deploy) |
 | GitLens | Provides Git CodeLens information (most recent commit, # of authors). | [![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/eamodio.gitlens.svg)](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) |
