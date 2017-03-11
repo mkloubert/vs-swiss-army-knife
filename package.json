@@ -29,6 +29,7 @@
     "HookyQR.beautify",
     "mkloubert.vs-deploy",
     "mkloubert.vs-script-commands",
+    "PeterJausovec.vscode-docker",
     "robertohuertasm.vscode-icons"
   ]
 }

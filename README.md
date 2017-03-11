@@ -6,6 +6,7 @@ A meta package for [Visual Studio Code](https://code.visualstudio.com/) with use
 | ---- | --------- |:---------:|
 | Beautify | Beautify code in place | [![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/HookyQR.beautify.svg)](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify) |
 | Deploy | Provides commands to deploy files of a workspace to a destination. | [![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/mkloubert.vs-deploy.svg)](https://marketplace.visualstudio.com/items?itemName=mkloubert.vs-deploy) |
+| Docker | Docker support. | [![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/PeterJausovec.vscode-docker.svg)](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker) |
 | gitignore | Language support for .gitignore files. | [![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/codezombiech.gitignore.svg)](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore) |
 | Git History | View git log, file or line History. | [![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/donjayamanne.githistory.svg)](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory) |
 | GitLens | Provides Git CodeLens information (most recent commit, # of authors). | [![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/eamodio.gitlens.svg)](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) |
