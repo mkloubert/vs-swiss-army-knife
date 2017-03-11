@@ -17,6 +17,7 @@ A meta package for [Visual Studio Code](https://code.visualstudio.com/) with use
 | Script Commands | Adds additional commands that uses scripts (JavaScript) for the execution. | [![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/mkloubert.vs-script-commands.svg)](https://marketplace.visualstudio.com/items?itemName=mkloubert.vs-script-commands) |
 | Vagrant | Vagrant support for Visual Studio Code. | [![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/bbenoist.vagrant.svg)](https://marketplace.visualstudio.com/items?itemName=bbenoist.vagrant) |
 | vscode-icons | Icons for Visual Studio Code. | [![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/robertohuertasm.vscode-icons.svg)](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons) |
+| XML Tools | XML Formatting, XQuery, and XPath Tools. | [![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/DotJoshJohnson.xml.svg)](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml) |
 
 ## Install
 
