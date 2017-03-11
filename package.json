@@ -23,6 +23,7 @@
   },
   "extensionDependencies": [
     "alefragnani.project-manager",
+    "bbenoist.vagrant",
     "codezombiech.gitignore",
     "donjayamanne.githistory",
     "eamodio.gitlens",
