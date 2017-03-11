@@ -5,6 +5,7 @@ A meta package for [Visual Studio Code](https://code.visualstudio.com/) with use
 | Extension | Description | Current version / link |
 | ---- | --------- | --------- |
 | Beautify | Beautify code in place | [![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/HookyQR.beautify.svg)](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify) |
+| Deploy | Provides commands to deploy files of a workspace to a destination. | [![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/mkloubert.vs-deploy.svg)](https://marketplace.visualstudio.com/items?itemName=mkloubert.vs-deploy) |
 | vscode-icons | Icons for Visual Studio Code | [![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/robertohuertasm.vscode-icons.svg)](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons) |
 
 ## Install

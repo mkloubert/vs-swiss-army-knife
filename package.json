@@ -23,6 +23,7 @@
   },
   "extensionDependencies": [
     "HookyQR.beautify",
+    "mkloubert.vs-deploy",
     "robertohuertasm.vscode-icons"
   ]
 }
