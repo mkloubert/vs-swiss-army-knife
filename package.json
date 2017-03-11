@@ -1,0 +1,28 @@
+{
+  "name": "vs-swiss-army-knife",
+  "displayName": "Swiss Army Knife",
+  "description": "A meta package for Visual Studio Code with useful and popular extensions.",
+  "version": "0.0.1",
+  "publisher": "mkloubert",
+  "engines": {
+    "vscode": "^1.6.0"
+  },
+  "categories": [
+    "Other",
+    "Extension Packs"
+  ],
+  "icon": "icon.png",
+  "homepage": "https://github.com/mkloubert/vs-swiss-army-knife/blob/master/README.md",
+  "bugs": {
+    "url": "https://github.com/mkloubert/vs-swiss-army-knife/issues"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mkloubert/vs-swiss-army-knife"
+  },
+  "extensionDependencies": [
+    "HookyQR.beautify",
+    "robertohuertasm.vscode-icons"
+  ]
+}
