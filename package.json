@@ -38,6 +38,7 @@
     "joelday.docthis",
     "mkloubert.vs-cron",
     "mkloubert.vs-deploy",
+    "mkloubert.vs-rest-api",
     "mkloubert.vs-script-commands",
     "msjsdiag.debugger-for-chrome",
     "PeterJausovec.vscode-docker",
