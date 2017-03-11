@@ -22,6 +22,7 @@
     "url": "https://github.com/mkloubert/vs-swiss-army-knife"
   },
   "extensionDependencies": [
+    "codezombiech.gitignore",
     "eamodio.gitlens",
     "HookyQR.beautify",
     "mkloubert.vs-deploy",
