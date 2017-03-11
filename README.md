@@ -1,5 +1,9 @@
 # vs-swiss-army-knife
 
+[![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/mkloubert.vs-swiss-army-knife.svg)](https://marketplace.visualstudio.com/items?itemName=mkloubert.vs-swiss-army-knife)
+[![Installs](https://vsmarketplacebadge.apphb.com/installs/mkloubert.vs-swiss-army-knife.svg)](https://marketplace.visualstudio.com/items?itemName=mkloubert.vs-swiss-army-knife)
+[![Rating](https://vsmarketplacebadge.apphb.com/rating-short/mkloubert.vs-swiss-army-knife.svg)](https://marketplace.visualstudio.com/items?itemName=mkloubert.vs-swiss-army-knife#review-details)
+
 A meta package for [Visual Studio Code](https://code.visualstudio.com/) with useful and popular extensions.
 
 | Extension | Description | Current version / link |
