@@ -41,6 +41,7 @@
     "mkloubert.vs-rest-api",
     "mkloubert.vs-script-commands",
     "msjsdiag.debugger-for-chrome",
+    "nwallace.createGUID",
     "PeterJausovec.vscode-docker",
     "robertohuertasm.vscode-icons"
   ]
