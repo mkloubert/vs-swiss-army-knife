@@ -6,7 +6,7 @@ A meta package for [Visual Studio Code](https://code.visualstudio.com/) with use
 | ---- | --------- | --------- |
 | Beautify | Beautify code in place | [![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/HookyQR.beautify.svg)](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify) |
 | Deploy | Provides commands to deploy files of a workspace to a destination. | [![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/mkloubert.vs-deploy.svg)](https://marketplace.visualstudio.com/items?itemName=mkloubert.vs-deploy) |
-| GitLens | Provides Git CodeLens information (most recent commit, # of authors), on-demand inline blame annotations, status bar blame information, file & blame history explorers, and commands to compare changes. | [![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/eamodio.gitlens.svg)](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) |
+| GitLens | Provides Git CodeLens information (most recent commit, # of authors). | [![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/eamodio.gitlens.svg)](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) |
 | Script Commands | Adds additional commands that uses scripts (JavaScript) for the execution. | [![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/mkloubert.vs-script-commands.svg)](https://marketplace.visualstudio.com/items?itemName=mkloubert.vs-script-commands) |
 | vscode-icons | Icons for Visual Studio Code | [![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/robertohuertasm.vscode-icons.svg)](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons) |
 
