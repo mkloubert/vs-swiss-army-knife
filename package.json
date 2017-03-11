@@ -31,6 +31,7 @@
     "DotJoshJohnson.xml",
     "eamodio.gitlens",
     "eg2.vscode-npm-script",
+    "formulahendry.auto-close-tag",
     "hbenl.vscode-firefox-debug",
     "HookyQR.beautify",
     "humao.rest-client",
@@ -38,7 +39,6 @@
     "mkloubert.vs-cron",
     "mkloubert.vs-deploy",
     "mkloubert.vs-script-commands",
-    "msjsdiag.debugger-for-edge",
     "msjsdiag.debugger-for-chrome",
     "PeterJausovec.vscode-docker",
     "robertohuertasm.vscode-icons"

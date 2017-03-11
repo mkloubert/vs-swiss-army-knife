@@ -4,6 +4,7 @@ A meta package for [Visual Studio Code](https://code.visualstudio.com/) with use
 
 | Extension | Description | Current version / link |
 | ---- | --------- |:---------:|
+| Auto Close Tag | Automatically add HTML/XML close tag. | [![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/formulahendry.auto-close-tag.svg)](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) |
 | Beautify | Beautify code in place. | [![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/HookyQR.beautify.svg)](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify) |
 | Bookmarks | Mark lines and jump to them. | [![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/alefragnani.Bookmarks.svg)](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) |
 | Cron Jobs | Extension that runs tasks periodically. | [![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/mkloubert.vs-cron.svg)](https://marketplace.visualstudio.com/items?itemName=mkloubert.vs-cron) |
