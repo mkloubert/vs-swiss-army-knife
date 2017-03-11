@@ -4,7 +4,8 @@ A meta package for [Visual Studio Code](https://code.visualstudio.com/) with use
 
 | Extension | Description | Current version / link |
 | ---- | --------- |:---------:|
-| Beautify | Beautify code in place | [![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/HookyQR.beautify.svg)](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify) |
+| Beautify | Beautify code in place. | [![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/HookyQR.beautify.svg)](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify) |
+| Bookmarks | Mark lines and jump to them. | [![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/alefragnani.Bookmarks.svg)](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) |
 | Debugger for Chrome | Debug your JavaScript code in the Chrome browser. | [![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/msjsdiag.debugger-for-chrome.svg)](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) |
 | Debugger for Edge | Debug your JavaScript code in the Edge browser. | [![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/msjsdiag.debugger-for-edge.svg)](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-edge) |
 | Debugger for Firefox | Debug your web application or browser extension in Firefox. | [![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/hbenl.vscode-firefox-debug.svg)](https://marketplace.visualstudio.com/items?itemName=hbenl.vscode-firefox-debug) |
