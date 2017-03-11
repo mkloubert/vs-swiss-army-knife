@@ -1,5 +1,5 @@
 # Change Log (vs-swiss-army-knife)
 
-## 1.0.1 (March 11th, 2017; release)
+## 1.0.2 (March 11th, 2017; release)
 
 - Initial release
