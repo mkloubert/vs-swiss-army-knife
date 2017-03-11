@@ -5,6 +5,9 @@ A meta package for [Visual Studio Code](https://code.visualstudio.com/) with use
 | Extension | Description | Current version / link |
 | ---- | --------- |:---------:|
 | Beautify | Beautify code in place | [![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/HookyQR.beautify.svg)](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify) |
+| Debugger for Chrome | Debug your JavaScript code in the Chrome browser. | [![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/msjsdiag.debugger-for-chrome.svg)](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) |
+| Debugger for Edge | Debug your JavaScript code in the Edge browser. | [![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/msjsdiag.debugger-for-edge.svg)](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-edge) |
+| Debugger for Firefox | Debug your web application or browser extension in Firefox. | [![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/hbenl.vscode-firefox-debug.svg)](https://marketplace.visualstudio.com/items?itemName=hbenl.vscode-firefox-debug) |
 | Deploy | Provides commands to deploy files of a workspace to a destination. | [![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/mkloubert.vs-deploy.svg)](https://marketplace.visualstudio.com/items?itemName=mkloubert.vs-deploy) |
 | Docker | Docker support. | [![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/PeterJausovec.vscode-docker.svg)](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker) |
 | gitignore | Language support for .gitignore files. | [![Latest Release](https://vsmarketplacebadge.apphb.com/version-short/codezombiech.gitignore.svg)](https://marketplace.visualstudio.com/items?itemName=codezombiech.gitignore) |

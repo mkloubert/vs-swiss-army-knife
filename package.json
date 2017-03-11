@@ -27,9 +27,12 @@
     "codezombiech.gitignore",
     "donjayamanne.githistory",
     "eamodio.gitlens",
+    "hbenl.vscode-firefox-debug",
     "HookyQR.beautify",
     "mkloubert.vs-deploy",
     "mkloubert.vs-script-commands",
+    "msjsdiag.debugger-for-edge",
+    "msjsdiag.debugger-for-chrome",
     "PeterJausovec.vscode-docker",
     "robertohuertasm.vscode-icons"
   ]
